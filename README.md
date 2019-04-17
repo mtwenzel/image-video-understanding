@@ -2,6 +2,18 @@
 Interactive material for the Image and Video Understanding courses.
 
 Open in Colab:
-* [Session 1 -- Classification](https://colab.research.google.com/github/mtwenzel/image-video-understanding/blob/master/Session_1_CNN_Classification.ipynb "Open Session 1 in Colab")
-* [Session 2 -- Segmentation](https://colab.research.google.com/github/mtwenzel/image-video-understanding/blob/master/Session_2_Segmentation.ipynb "Open Session 2 in Colab")
-* [Session 3 -- Explainability](https://colab.research.google.com/github/mtwenzel/image-video-understanding/blob/master/Session_3_Explainable_Models.ipynb "Open Session 3 in Colab")
+
+<table class="tfo-notebook-buttons" align="left">
+  <td>
+    <a target="_blank" href="https://colab.research.google.com/github/mtwenzel/image-video-understanding/blob/master/Session_1_CNN_Classification.ipynb"><img height="32px" src="https://colab.research.google.com/img/colab_favicon.ico" />Session 1 (Classification) in Google Colab</a>
+  </td>
+  <td>
+    <a target="_blank" href="https://colab.research.google.com/github/mtwenzel/image-video-understanding/blob/master/Session_2_Segmentation.ipynb"><img height="32px" src="https://colab.research.google.com/img/colab_favicon.ico" />Session 2 (Segmentation) in Google Colab</a>
+  </td>
+  <td>
+    <a target="_blank" href="https://colab.research.google.com/github/mtwenzel/image-video-understanding/blob/master/Session_3_Explainable_Models.ipynb"><img height="32px" src="https://colab.research.google.com/img/colab_favicon.ico" />Session 3 (Explainability) in Google Colab</a>
+  </td>
+</table>
+<br>
+<br>
+<br>
