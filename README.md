@@ -1,4 +1,4 @@
-# image-video-understanding
+# Image and Video Understanding
 Interactive material for the Image and Video Understanding courses.
 
 Open in Colab:
