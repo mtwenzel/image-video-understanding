@@ -13,6 +13,9 @@ Open in Colab:
   <td>
     <a target="_blank" href="https://colab.research.google.com/github/mtwenzel/image-video-understanding/blob/master/Session_3_Explainable_Models.ipynb"><img height="32px" src="https://colab.research.google.com/img/colab_favicon.ico" />Session 3 (Explainability) in Google Colab</a>
   </td>
+  <td>
+    <a target="_blank" href="https://colab.research.google.com/github/mtwenzel/image-video-understanding/blob/master/Session_4_Generative_Adversarial_Nets.ipynb"><img height="32px" src="https://colab.research.google.com/img/colab_favicon.ico" />Session 4 (GAN) in Google Colab</a>
+  </td>
 </table>
 <br>
 <br>
